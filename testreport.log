@@ -1,0 +1,32 @@
+2020-08-13 19:06:00,945  INFO [main] LogFile:12 - Successfully launched the browser!
+2020-08-13 19:06:06,301  INFO [main] LogFile:12 - Successfully launched the url : https://www.cleartrip.com/do/search/flights
+2020-08-13 19:06:11,679  INFO [main] LogFile:12 - Hyderabad entered as Source Location
+2020-08-13 19:06:16,936  INFO [main] LogFile:12 - Bangalore entered as Destination Location
+2020-08-13 19:06:17,349  INFO [main] LogFile:12 - Entered the date successfully!
+2020-08-13 19:06:23,147  INFO [main] LogFile:12 - Search Flight Submit Button Successfully Clicked.
+2020-08-13 19:06:28,222  INFO [main] LogFile:12 - page is loaded and displaying all avalilable flights
+2020-08-13 19:06:38,521  INFO [main] LogFile:12 - Selected the best flight successfully
+2020-08-13 19:06:42,201  INFO [main] LogFile:12 - Successfully launched the browser!
+2020-08-13 19:06:47,343  INFO [main] LogFile:12 - Successfully launched the url : https://www.cleartrip.com/do/search/flights
+2020-08-13 19:06:52,637  INFO [main] LogFile:12 - Hyderabad entered as Source Location
+2020-08-13 19:06:57,896  INFO [main] LogFile:12 - Chennai entered as Destination Location
+2020-08-13 19:06:58,306  INFO [main] LogFile:12 - Entered the date successfully!
+2020-08-13 19:07:04,822  INFO [main] LogFile:12 - Search Flight Submit Button Successfully Clicked.
+2020-08-13 19:07:12,640  INFO [main] LogFile:12 - page is loaded and displaying all avalilable flights
+2020-08-13 19:07:21,960  INFO [main] LogFile:12 - Selected the best flight successfully
+2020-08-13 19:27:06,862  INFO [main] LogFile:12 - Successfully launched the browser!
+2020-08-13 19:27:12,737  INFO [main] LogFile:12 - Successfully launched the url : https://www.cleartrip.com/do/search/flights
+2020-08-13 19:27:18,047  INFO [main] LogFile:12 - Hyderabad entered as Source Location
+2020-08-13 19:27:23,301  INFO [main] LogFile:12 - Bangalore entered as Destination Location
+2020-08-13 19:27:23,708  INFO [main] LogFile:12 - Entered the date successfully!
+2020-08-13 19:27:28,107  INFO [main] LogFile:12 - Search Flight Submit Button Successfully Clicked.
+2020-08-13 19:27:35,218  INFO [main] LogFile:12 - page is loaded and displaying all avalilable flights
+2020-08-13 19:27:38,647  INFO [main] LogFile:12 - Selected the best flight successfully
+2020-08-13 19:27:42,357  INFO [main] LogFile:12 - Successfully launched the browser!
+2020-08-13 19:27:47,903  INFO [main] LogFile:12 - Successfully launched the url : https://www.cleartrip.com/do/search/flights
+2020-08-13 19:27:53,262  INFO [main] LogFile:12 - Hyderabad entered as Source Location
+2020-08-13 19:27:58,522  INFO [main] LogFile:12 - Chennai entered as Destination Location
+2020-08-13 19:27:58,934  INFO [main] LogFile:12 - Entered the date successfully!
+2020-08-13 19:28:06,482  INFO [main] LogFile:12 - Search Flight Submit Button Successfully Clicked.
+2020-08-13 19:28:10,557  INFO [main] LogFile:12 - page is loaded and displaying all avalilable flights
+2020-08-13 19:28:17,079  INFO [main] LogFile:12 - Selected the best flight successfully
